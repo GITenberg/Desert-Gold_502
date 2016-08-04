@@ -1,0 +1,38 @@
+_repo: Desert-Gold_502
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grey, Zane
+    aliases:
+    - Gray, Zane
+    - Gray, Pearl Zane
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '212'
+    url: http://www.gutenberg.org/2009/agents/212
+    wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
+description: A border town like Casita is no place for a drifter - especially a rich
+  man's son looking for adventure. From the moment Dick Gale steps into the stinking,
+  sun-baked hellhole of gambling and corruption, revolution, and revenge, he gets
+  more than he bargained for. His old friend Thorne is in love with a beautiful Senorita
+  who's been targeted by Mexican rebel Rojas. A bold, sneering devil of a man, feared,
+  envied, and idolised by his people, Rojas spends gold like he spills blood - and
+  collects women like trinkets. Gale knows that defying such a man could be suicide.
+  Defeating him is his only chance to survive - in a brutal one-on-one battle on the
+  parched desert cliffs.
+gutenberg_bookshelf: Western
+gutenberg_issued: '1996-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '502'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- GITenberg
+title: Desert Gold
+url: http://www.gutenberg.org/ebooks/502
